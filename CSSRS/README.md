@@ -1,0 +1,1 @@
+This dataset contains posts from 15 mental health-related subreddits from 2181 users between 2005 and 2016. Four practicing psychiatrists followed Columbia Suicide Severity Rating Scale (C-SSRS) guidelines to manually annotate 500 users on suicide risks in five levels: supportive, indicator, ideation, behavior, and attempt.
