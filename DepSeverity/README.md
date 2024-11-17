@@ -1,0 +1,1 @@
+This dataset leveraged the same posts collected in , but with a different focus on depression. Two human annotators followed DSM-5 and categorized posts into four levels of depression: minimal, mild, moderate, and severe.
