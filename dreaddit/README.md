@@ -1,0 +1,1 @@
+This dataset collected posts via Reddit PRAW API [94] from Jan 1, 2017 to Nov 19, 2018, which contains ten subreddits in the five domains (abuse, social, anxiety, PTSD, and financial) and includes 2929 users’ posts. Multiple human annotators rated whether sentence segments showed the stress of the poster, and the annotations were aggregated to generate final labels.
